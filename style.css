@@ -1,0 +1,7 @@
+#view-selection >i {
+  opacity:0.3;
+}
+
+#view-selection >i:hover {
+  opacity:1;
+}
